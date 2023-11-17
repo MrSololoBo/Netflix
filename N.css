@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(125, 23, 23);
+}
+.flexing{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
